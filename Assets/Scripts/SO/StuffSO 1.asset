@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05fe58f9db795434cb3aba0d9232f1b6, type: 3}
+  m_Name: StuffSO 1
+  m_EditorClassIdentifier: 
+  slotSprite: {fileID: 21300000, guid: cd28a29d455d607418940653857bebfa, type: 3}
+  chipCount: 15
+  ID: 5
+  fx: {fileID: 3512857141262789937, guid: b149e7f4f459cf44588962f373bdd2b9, type: 3}
+  soundFX:
+  - {fileID: 8300000, guid: ea1e18e83480bdc4e8a9693bdf37df6d, type: 3}
+  - {fileID: 8300000, guid: 359d10accc51dd44fb3a36aebec6bf27, type: 3}
+  - {fileID: 8300000, guid: 9951bcec73f5636459b26f3b2723b61b, type: 3}
